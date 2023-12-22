@@ -36,5 +36,5 @@ Country with highest GDP Share is Kiribati and Country with lowest GDP Share is 
 The average ratio of total health expenditure and population is 0.15, which is very less as compared to population. Each country should increase their health expenditure to meet the needs of rising population. 
 
 **Conclusion**
-I thoroughly enjoyed working on this Global Health Expenditure Analysis Prokect. It provided a valuable opportunity to apply Power BI skills to real-world data and gain insights into the health industry. 
+I thoroughly enjoyed working on this Global Health Expenditure Analysis Project. It provided a valuable opportunity to apply Power BI skills to real-world data and gain insights into the health industry. 
 
